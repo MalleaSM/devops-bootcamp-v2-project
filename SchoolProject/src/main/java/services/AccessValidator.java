@@ -20,6 +20,7 @@ public class AccessValidator {
     }
 
     public Teacher verifyTeacherAccess(String code) {
+        System.out.println("verify teacher");
         return this.teacherRepository.getTeacherByCode(code);
     }
 }

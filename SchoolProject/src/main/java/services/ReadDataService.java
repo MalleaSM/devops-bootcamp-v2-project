@@ -18,9 +18,9 @@ public class ReadDataService {
                 
         try {
             Gson gson = new Gson();
-            var path = (Paths.get("students.json"));
-            System.out.println(path);
-            Reader reader = Files.newBufferedReader(Paths.get("src/main/resources/students.json"));
+            // var path = (Paths.get("students.json"));
+            // System.out.println(path);
+            Reader reader = Files.newBufferedReader(Paths.get("SchoolProject/src/main/resources/students.json"));
 
             students = gson.fromJson(reader, new TypeToken<List<Student>>() {}.getType());
             reader.close();

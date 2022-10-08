@@ -11,7 +11,9 @@ public class Main {
         StudentRepository studentRepository = new StudentRepository();
 
         ReadDataService readDataService = new ReadDataService();
+       
         var students = readDataService.readStudentsDataFromJson();
+
         WriteDataService writeDataService = new WriteDataService(studentRepository);
         writeDataService.writeStudentsDataToRepository(students);
 
