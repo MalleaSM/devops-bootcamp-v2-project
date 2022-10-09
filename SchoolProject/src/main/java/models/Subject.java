@@ -1,15 +1,27 @@
 package models;
 
-import helpers.Grade;
-
 public class Subject {
     private String name;
-    private Teacher teacher;
-    private Grade grade;
+    private String score;
 
-    public Subject(String name, Teacher teacher, Grade grade) {
+    public Subject(){};
+
+    public Subject(String name, String score) {
         this.name = name;
-        this.teacher = teacher;
-        this.grade = grade;
+        this.score = score;
+    }
+    
+    public String getName(){
+        return this.name;
+    }
+
+    public String getScore() {
+        return score;
+    }
+    public void setScore(String newScore){
+        System.out.println("ANTES: "+this.score+"NOTA NUEVA: "+ newScore);
+
+        this.score = newScore;
+        System.out.println("Despues: "+this.score);
     }
 }

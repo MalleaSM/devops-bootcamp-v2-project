@@ -2,15 +2,175 @@
   {
     "code": "ST-01-John",
     "name": "John Doe",
-    "age": "11",
-    "grade": "MIDDLE_SCHOOL",
-    "score": "B"
+    "age": "8",
+    "grade": "ELEMENTARY_SCHOOL",
+    "subjects": [
+      {
+        "subject":"Mathematics",
+        "score":"A" 
+      },
+      {
+        "subject":"Lenguage",
+        "score":"B" 
+      },{
+        "subject":"Natural Science",
+        "score":"F" 
+      }
+    ]
   },
   {
     "code": "ST-02-Tom",
     "name": "Tom Lee",
+    "age": "7",
+    "grade": "ELEMENTARY_SCHOOL",
+    "subjects": [
+      {
+        "subject":"Mathematics",
+        "score":"B" 
+      },
+      {
+        "subject":"Lenguage",
+        "score":"C" 
+      },{
+        "subject":"Natural Science",
+        "score":"C" 
+      }
+    ]
+  },
+  {
+    "code": "ST-10-Ana",
+    "name": "Ana Aguilar",
     "age": "14",
     "grade": "MIDDLE_SCHOOL",
-    "score": "C"
+    "subjects": [
+      {
+        "subject":"Mathematics",
+        "score":"D" 
+      },
+      {
+        "subject":"Lenguage",
+        "score":"D" 
+      },
+      {
+        "subject":"Biology",
+        "score":"A" 
+      },
+      {
+        "subject":"Music",
+        "score":"A" 
+      }
+    ]
+  },
+  {
+    "code": "ST-23-Stan",
+    "name": "Stan Marsh",
+    "age": "13",
+    "grade": "MIDDLE_SCHOOL",
+    "subjects": [
+      {
+        "subject":"Mathematics",
+        "score":"B" 
+      },
+      {
+        "subject":"Lenguage",
+        "score":"C" 
+      },
+      {
+        "subject":"Biology",
+        "score":"D" 
+      },
+      {
+        "subject":"Music",
+        "score":"F" 
+      }
+    ]
+  },
+  {
+    "code": "ST-41-Javier",
+    "name": "Javier Cabrera",
+    "age": "14",
+    "grade": "MIDDLE_SCHOOL",
+    "subjects": [
+      {
+        "subject":"Mathematics",
+        "score":"B" 
+      },
+      {
+        "subject":"Lenguage",
+        "score":"C" 
+      },
+      {
+        "subject":"Bio",
+        "score":"D" 
+      },
+      {
+        "subject":"Music",
+        "score":"D" 
+      }
+    ]
+  },
+  {
+    "code": "ST-60-Diego",
+    "name": "Diego Fuentes",
+    "age": "16",
+    "grade": "HIGH_SCHOOL",
+    "subjects": [
+      {
+        "subject":"Mathematics",
+        "score":"C" 
+      },
+      {
+        "subject":"Lenguage",
+        "score":"A" 
+      },
+      {
+        "subject":"Biology",
+        "score":"B" 
+      },
+      {
+        "subject":"Physics",
+        "score":"D" 
+      },
+      {
+        "subject":"Chemistry",
+        "score":"F" 
+      },
+      {
+        "subject":"Music",
+        "score":"B" 
+      }
+    ]
+  },
+  {
+    "code": "ST-02-Nataly",
+    "name": "Nataly Mostajo",
+    "age": "16",
+    "grade": "HIGH_SCHOOL",
+    "subjects": [
+      {
+        "subject":"Mathematics",
+        "score":"B" 
+      },
+      {
+        "subject":"Lenguage",
+        "score":"C" 
+      },
+      {
+        "subject":"Biology",
+        "score":"D" 
+      },
+      {
+        "subject":"Physics",
+        "score":"A" 
+      },
+      {
+        "subject":"Chemistry",
+        "score":"B" 
+      },
+      {
+        "subject":"Music",
+        "score":"C" 
+      }
+    ]
   }
 ]

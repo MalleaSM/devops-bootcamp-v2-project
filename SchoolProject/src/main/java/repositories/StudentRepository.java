@@ -23,4 +23,16 @@ public class StudentRepository {
     public void addStudent(Student s) {
         this.students.add(s);
     }
+
+    public List<Student> getStudentsByGrade(String grade){
+        List<Student> studentByGrade = new ArrayList<>();
+        for (Student student : students) {
+            if(student.getGrade().equals(grade)){
+                studentByGrade.add(student);
+            }
+        }
+        return studentByGrade;
+    }
+
+    
 }

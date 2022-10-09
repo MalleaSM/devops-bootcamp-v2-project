@@ -1,0 +1,37 @@
+[
+    {
+        "code": "TE-01-Andrea",
+        "name": "Andrea Dávalos",
+        "subject": "Mathematics"
+    },
+    {
+        "code": "TE-02-Victor",
+        "name": "Victor Medrano",
+        "subject": "Lenguage"
+    },
+    {
+        "code": "TE-03-Sergio",
+        "name": "Sergio Fernandez",
+        "subject": "Natural Science"
+    },
+    {
+        "code": "TE-04-Nicol",
+        "name": "Nicol Miranda",
+        "subject": "Biology"
+    },
+    {
+        "code": "TE-05-Carmen",
+        "name": "Carmen Davalos",
+        "subject": "Music"
+    },
+    {
+        "code": "TE-06-David",
+        "name": "David Diaz",
+        "subject": "Physics"
+    },
+    {
+        "code": "TE-07-Roger",
+        "name": "Roger Ticona",
+        "subject": "Chemistry"
+    }
+]
