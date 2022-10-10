@@ -6,15 +6,16 @@
     "grade": "ELEMENTARY_SCHOOL",
     "subjects": [
       {
-        "subject":"Mathematics",
-        "score":"A" 
+        "subject": "Mathematics",
+        "score": "C"
       },
       {
-        "subject":"Lenguage",
-        "score":"B" 
-      },{
-        "subject":"Natural Science",
-        "score":"F" 
+        "subject": "Lenguage",
+        "score": "B"
+      },
+      {
+        "subject": "Natural Science",
+        "score": "F"
       }
     ]
   },
@@ -25,15 +26,16 @@
     "grade": "ELEMENTARY_SCHOOL",
     "subjects": [
       {
-        "subject":"Mathematics",
-        "score":"B" 
+        "subject": "Mathematics",
+        "score": "B"
       },
       {
-        "subject":"Lenguage",
-        "score":"C" 
-      },{
-        "subject":"Natural Science",
-        "score":"C" 
+        "subject": "Lenguage",
+        "score": "C"
+      },
+      {
+        "subject": "Natural Science",
+        "score": "C"
       }
     ]
   },
@@ -44,20 +46,20 @@
     "grade": "MIDDLE_SCHOOL",
     "subjects": [
       {
-        "subject":"Mathematics",
-        "score":"D" 
+        "subject": "Mathematics",
+        "score": "D"
       },
       {
-        "subject":"Lenguage",
-        "score":"D" 
+        "subject": "Lenguage",
+        "score": "D"
       },
       {
-        "subject":"Biology",
-        "score":"A" 
+        "subject": "Biology",
+        "score": "A"
       },
       {
-        "subject":"Music",
-        "score":"A" 
+        "subject": "Music",
+        "score": "A"
       }
     ]
   },
@@ -68,20 +70,20 @@
     "grade": "MIDDLE_SCHOOL",
     "subjects": [
       {
-        "subject":"Mathematics",
-        "score":"B" 
+        "subject": "Mathematics",
+        "score": "B"
       },
       {
-        "subject":"Lenguage",
-        "score":"C" 
+        "subject": "Lenguage",
+        "score": "C"
       },
       {
-        "subject":"Biology",
-        "score":"D" 
+        "subject": "Biology",
+        "score": "D"
       },
       {
-        "subject":"Music",
-        "score":"F" 
+        "subject": "Music",
+        "score": "F"
       }
     ]
   },
@@ -92,20 +94,20 @@
     "grade": "MIDDLE_SCHOOL",
     "subjects": [
       {
-        "subject":"Mathematics",
-        "score":"B" 
+        "subject": "Mathematics",
+        "score": "B"
       },
       {
-        "subject":"Lenguage",
-        "score":"C" 
+        "subject": "Lenguage",
+        "score": "C"
       },
       {
-        "subject":"Bio",
-        "score":"D" 
+        "subject": "Bio",
+        "score": "D"
       },
       {
-        "subject":"Music",
-        "score":"D" 
+        "subject": "Music",
+        "score": "D"
       }
     ]
   },
@@ -116,28 +118,28 @@
     "grade": "HIGH_SCHOOL",
     "subjects": [
       {
-        "subject":"Mathematics",
-        "score":"C" 
+        "subject": "Mathematics",
+        "score": "C"
       },
       {
-        "subject":"Lenguage",
-        "score":"A" 
+        "subject": "Lenguage",
+        "score": "A"
       },
       {
-        "subject":"Biology",
-        "score":"B" 
+        "subject": "Biology",
+        "score": "B"
       },
       {
-        "subject":"Physics",
-        "score":"D" 
+        "subject": "Physics",
+        "score": "D"
       },
       {
-        "subject":"Chemistry",
-        "score":"F" 
+        "subject": "Chemistry",
+        "score": "F"
       },
       {
-        "subject":"Music",
-        "score":"B" 
+        "subject": "Music",
+        "score": "B"
       }
     ]
   },
@@ -148,28 +150,28 @@
     "grade": "HIGH_SCHOOL",
     "subjects": [
       {
-        "subject":"Mathematics",
-        "score":"B" 
+        "subject": "Mathematics",
+        "score": "B"
       },
       {
-        "subject":"Lenguage",
-        "score":"C" 
+        "subject": "Lenguage",
+        "score": "C"
       },
       {
-        "subject":"Biology",
-        "score":"D" 
+        "subject": "Biology",
+        "score": "D"
       },
       {
-        "subject":"Physics",
-        "score":"A" 
+        "subject": "Physics",
+        "score": "A"
       },
       {
-        "subject":"Chemistry",
-        "score":"B" 
+        "subject": "Chemistry",
+        "score": "B"
       },
       {
-        "subject":"Music",
-        "score":"C" 
+        "subject": "Music",
+        "score": "C"
       }
     ]
   }

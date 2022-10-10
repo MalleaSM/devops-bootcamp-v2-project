@@ -39,7 +39,7 @@ public class ReadDataService {
 
         }
         catch (Exception e) {
-            System.err.println("Error reading teachers json file");
+            System.err.println("Error reading teachers json file"+e);
         }
 
         return teachers;
@@ -58,7 +58,7 @@ public class ReadDataService {
                 String code = studentData.get("code").getAsString();
                 String name = studentData.get("name").getAsString();
                 String grade =  studentData.get("grade").getAsString();
-                int age = studentData.get("age").getAsInt();
+                String age = studentData.get("age").getAsString();
     
                 JsonArray subjectArray = studentData.get("subjects").getAsJsonArray();
                 List<Subject> subjects = new ArrayList<>()  ;
@@ -76,7 +76,7 @@ public class ReadDataService {
             }
 
         } catch (Exception e) {   
-            System.err.println("Error reading student json file");
+            System.err.println("Error reading student json file"+e);
         }
         return students;
     }
